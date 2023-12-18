@@ -14,3 +14,7 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Actions
+
+Foi criada uma action toda vez que houver um push neste repositório na branch main, você consegue ver isso na aba actions logo em cima.
